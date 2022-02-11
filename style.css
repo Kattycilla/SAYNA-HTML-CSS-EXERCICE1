@@ -1,0 +1,11 @@
+body nav div { 
+    display: inline-block;
+    background-color:#C55394 ;
+    color:#FFF ;
+    
+    
+}
+:hover{ color: #C55394;}
+#space {
+    width: 70%;
+ }
